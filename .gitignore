@@ -3,3 +3,4 @@ practice_handson_ml_env/*
 handson_ml/*
 saved_model/*
 datasets/submissions/*
+datasets/ch13-preprocessing/*
