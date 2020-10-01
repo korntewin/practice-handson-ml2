@@ -5,3 +5,4 @@ saved_model/*
 datasets/submissions/*
 datasets/ch13-preprocessing/*
 datasets/ch15-processing/*
+datasets/ch16-nlp/*
